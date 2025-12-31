@@ -1,4 +1,4 @@
-#Car Listings Data
+## Car Listings Data
 
 ## Overview
 The data contains information about the make, model, year, price, odometer, fuel type, transmission, and other details.  
@@ -92,6 +92,7 @@ For this next section, cut down the data to just Ford F-150s. Then:
 - Count monthly listings using `time_posted`.  
 
 ### Part 4: Visualization
+
 
 
 
